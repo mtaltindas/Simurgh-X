@@ -4,5 +4,8 @@ https://www.youtube.com/watch?v=kHkQnuYzwoo
 
 
 https://www.hackster.io/SaadTiwana/embedded-diaries-how-to-use-rpi-hq-camera-with-jetson-e2063e
+https://developer.nvidia.com/drive/sdk-manager
+
+
 https://www.hackster.io/Matchstic/connecting-pixhawk-to-raspberry-pi-and-nvidia-jetson-b263a7
 camSet='nvarguscamerasrc !  video/x-raw(memory:NVMM), width=3264, height=2464, format=NV12, framerate=21/1 ! nvvidconv flip-method='+str(flip)+' ! video/x-raw, width='+str(dispW)+', height='+str(dispH)+', format=BGRx ! videoconvert ! video/x-raw, format=BGR ! appsink'
