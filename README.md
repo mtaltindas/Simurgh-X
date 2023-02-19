@@ -17,3 +17,6 @@ https://stackoverflow.com/questions/60824700/how-to-install-python3-9-on-linux-u
 
 
 https://stackoverflow.com/questions/44967202/pip-is-showing-error-lsb-release-a-returned-non-zero-exit-status-1
+
+PCA9685 Servo Control:
+https://github.com/adafruit/Adafruit_Python_PCA9685
