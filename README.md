@@ -21,3 +21,9 @@ https://stackoverflow.com/questions/44967202/pip-is-showing-error-lsb-release-a-
 PCA9685 Servo Control:
 https://github.com/adafruit/Adafruit_Python_PCA9685
 https://www.youtube.com/watch?v=D2gSvXo0qT8
+
+bmp180:
+https://learn.sparkfun.com/tutorials/bmp180-barometric-pressure-sensor-hookup-/all
+https://how2electronics.com/bmp180-altitude-pressure-temperature-measurement/
+mpu6050:
+https://automaticaddison.com/visualize-imu-data-using-the-mpu6050-ros-and-jetson-nano/
