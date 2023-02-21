@@ -27,3 +27,6 @@ https://learn.sparkfun.com/tutorials/bmp180-barometric-pressure-sensor-hookup-/a
 https://how2electronics.com/bmp180-altitude-pressure-temperature-measurement/
 mpu6050:
 https://automaticaddison.com/visualize-imu-data-using-the-mpu6050-ros-and-jetson-nano/
+
+pca9685:
+https://github.com/adafruit/Adafruit_CircuitPython_PCA9685
