@@ -30,3 +30,5 @@ https://automaticaddison.com/visualize-imu-data-using-the-mpu6050-ros-and-jetson
 
 pca9685:
 https://github.com/adafruit/Adafruit_CircuitPython_PCA9685
+HMC5883L:
+https://blog.csdn.net/ManWZD/article/details/103147985
