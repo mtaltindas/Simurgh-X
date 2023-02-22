@@ -32,3 +32,4 @@ pca9685:
 https://github.com/adafruit/Adafruit_CircuitPython_PCA9685
 HMC5883L:
 https://blog.csdn.net/ManWZD/article/details/103147985
+https://www.instructables.com/Configure-read-data-calibrate-the-HMC5883L-digital/
