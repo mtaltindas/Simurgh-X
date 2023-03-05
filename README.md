@@ -6,7 +6,6 @@
 ---
 ## Description
 
-
 <div class="row">
   <div class="column">
     <img src="simurghLogo.png"  width="558" height="470" align="left">
@@ -16,7 +15,6 @@
   </div>
   
 </div>
-
 
 *will be implemented at a later time*
 
