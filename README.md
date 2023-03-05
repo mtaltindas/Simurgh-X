@@ -1,6 +1,6 @@
 
 
-# ***Simurgh-X*** *Autonomous Quadcopter Project for TEKNOFEST UAV 2023 Competition*
+# *Autonomous Quadcopter Project for TEKNOFEST UAV 2023 Competition*
 
 
 ---
@@ -10,7 +10,8 @@
 </p>
 
 ---
-
+## Description
+* will be implemented at a later time*
 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
 
 ---
