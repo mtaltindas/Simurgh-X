@@ -5,7 +5,7 @@
 
 
 
-![Autonomous Quadcopter Project for TEKNOFEST UAV 2023 Competition](./simurghLogo.png =335x188)  
+![](./simurghLogo.png =335x188)  
 
 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
 
