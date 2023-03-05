@@ -6,10 +6,12 @@
 ---
 ## Description
 
-
+<p align="left">
 <img src="simurghLogo.png"  width="558" height="470">
+</p>
+<p align="right">
 <img src="huuav.png" width="470" height="558">
-
+</p>
 
 
 *will be implemented at a later time*
