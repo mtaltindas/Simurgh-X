@@ -6,7 +6,7 @@
 ---
 ## Description
 <p align="center">
-<img src="simurghLogo.png"  width="425" > <img src="huuav.png" width="425"  >
+<img src="simurghLogo.png"  width="325" > <img src="huuav.png" width="325"  >
 </p>
 *will be implemented at a later time*
 
