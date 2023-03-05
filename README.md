@@ -5,11 +5,12 @@
 
 ---
 ## Description
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-!<img src="simurghLogo.png"  width="558" height="470">  |   <img src="huuav.png" width="470" height="558" >
 
 
+<p float="left">
+  <img src="simurghLogo.png"  width="558" height="470"> 
+  <img src="huuav.png" width="470" height="558" >
+</p>
 *will be implemented at a later time*
 
 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
