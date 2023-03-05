@@ -6,7 +6,7 @@
 ---
 ## Description
 
-<img src="simurghLogo.png"  width="425" > <img src="huuav.png" width="225"  >
+<img src="simurghLogo.png"  width="425" > <img src="huuav.png" width="425"  >
 
 *will be implemented at a later time*
 
