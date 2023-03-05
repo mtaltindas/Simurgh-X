@@ -5,7 +5,6 @@
 
 ---
 
- 
 <p align="center">
 <img src="simurghLogo.png" width="670.4" height="500">
 </p>
@@ -13,12 +12,6 @@
 ---
 
 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
-
-
-
-
----
-[VNC](https://developer.nvidia.com/embedded/learn/tutorials/vnc-setup)
 
 ---
 ## ***Raspberry Pi HQ Camera***
@@ -37,6 +30,7 @@ camSet='nvarguscamerasrc ! video/x-raw(memory:NVMM), width=3264, height=2464, fo
 ---
 ## ***Jetson Nano URLS***
 
+[VNC](https://developer.nvidia.com/embedded/learn/tutorials/vnc-setup)
 
 [Jetson Pixhawk Cube  Connection](https://www.hackster.io/Matchstic/connecting-pixhawk-to-raspberry-pi-and-nvidia-jetson-b263a7)
 
