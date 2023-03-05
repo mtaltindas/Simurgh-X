@@ -5,10 +5,12 @@
 
 ---
 ## Description
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 <div class="row">
   <div class="column">
-    <img src="simurghLogo.png"  width="558" height="470" align="left">
+    <img src="simurghLogo.png"  width="558" height="470">
   </div>
   <div class="column">
     <img src="huuav.png" width="470" height="558" >
