@@ -6,7 +6,7 @@
 
 
 ![](./simurghLogo.png =335x188)  
-
+<img src="simurghLogo.png" width="335" height="188">
 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
 
 
