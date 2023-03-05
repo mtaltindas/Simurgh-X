@@ -5,9 +5,9 @@
 
 ---
 ## Description
-
+<p align="center">
 <img src="simurghLogo.png"  width="425" > <img src="huuav.png" width="425"  >
-
+</p>
 *will be implemented at a later time*
 
 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
