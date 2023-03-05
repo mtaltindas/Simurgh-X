@@ -5,12 +5,17 @@
 
 ---
 ## Description
-<p align="left">
-<img src="simurghLogo.png"  width="558" height="470" align="left">
-</p>
-<img src="huuav.png" width="470" height="558" >
 
----
+
+<div class="row">
+  <div class="column">
+    <img src="simurghLogo.png"  width="558" height="470" align="left">
+  </div>
+  <div class="column">
+    <img src="huuav.png" width="470" height="558" >
+  </div>
+  
+</div>
 
 
 *will be implemented at a later time*
