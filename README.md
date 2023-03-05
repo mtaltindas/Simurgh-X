@@ -3,17 +3,19 @@
 # ***Simurgh-X*** *Autonomous Quadcopter Project for TEKNOFEST UAV 2023 Competition*
 
 
-
+---
 
  
 <p align="center">
-<img src="simurghLogo.png" width="670.4" height="420">
+<img src="simurghLogo.png" width="670.4" height="500">
 </p>
+
+---
 
 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
 
 
-[text to display](http://address.com)
+
 
 ---
 [VNC](https://developer.nvidia.com/embedded/learn/tutorials/vnc-setup)
