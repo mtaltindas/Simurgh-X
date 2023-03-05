@@ -5,9 +5,9 @@
 
 
 
-![](./simurghLogo.png =335x188)  
+ 
 <p align="center">
-<img src="simurghLogo.png" width="670.4" height="390">
+<img src="simurghLogo.png" width="670.4" height="420">
 </p>
 
 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
