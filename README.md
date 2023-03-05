@@ -8,6 +8,7 @@
 
 <p align="center">
 <img src="simurghLogo.png"  width="558" height="470">
+<img src="huuav.png" width="470" height="558">
 </p>
 
 
