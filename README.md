@@ -7,10 +7,9 @@
 ## Description
 
 <img src="simurghLogo.png"  width="558" height="470" align="left">
-
-
 <img src="huuav.png" width="470" height="558" align="right">
 
+---
 
 
 *will be implemented at a later time*
