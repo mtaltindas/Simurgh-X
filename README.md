@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-<img src="simurghLogo.png">
+<img src="simurghLogo.png"  width="670" height="500">
 </p>
 
 ---
