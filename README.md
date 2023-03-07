@@ -11,7 +11,6 @@
 
 *will be implemented at a later time*
 
-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
 
 ---
 ## ***Raspberry Pi HQ Camera***
@@ -43,10 +42,9 @@ camSet='nvarguscamerasrc ! video/x-raw(memory:NVMM), width=3264, height=2464, fo
  
 
 ## ***PCA9685 Servo Control:***
-- [Adafruit LIB](https://github.com/adafruit/Adafruit_Python_PCA9685)
-- [Youtube Tutorial](https://www.youtube.com/watch?v=D2gSvXo0qT8)
-- [Another LIB for PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685)
 
+- [Another LIB for PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685)
+- [Problem for older py3 versions](https://github.com/adafruit/Adafruit_Python_PlatformDetect/issues/225)
 ## ***BMP180:*** 
 
 [Press Sensor 101](https://learn.sparkfun.com/tutorials/bmp180-barometric-pressure-sensor-hookup-/all)
