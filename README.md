@@ -55,6 +55,7 @@ camSet='nvarguscamerasrc ! video/x-raw(memory:NVMM), width=3264, height=2464, fo
 [Sensor Usage](https://automaticaddison.com/visualize-imu-data-using-the-mpu6050-ros-and-jetson-nano/)
 ## ***MPU9250:***
 [Sensor Usage](https://medium.com/@niru5/hands-on-with-rpi-and-mpu9250-part-3-232378fa6dbc)
+[TR IMU101](https://medium.com/@mail.mehmetak/mpu-9250-genel-bak%C4%B1%C5%9F-f488dbdd7f6d)
 ## ***HMC5883L:***
 [Link1](https://blog.csdn.net/ManWZD/article/details/103147985)
 
