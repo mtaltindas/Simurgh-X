@@ -37,7 +37,7 @@ camSet='nvarguscamerasrc ! video/x-raw(memory:NVMM), width=3264, height=2464, fo
 
 
 [PIP Error](https://stackoverflow.com/questions/44967202/pip-is-showing-error-lsb-release-a-returned-non-zero-exit-status-1)
-
+[GUI Problem](https://forums.developer.nvidia.com/t/desktop-not-working-on-jetson/191030/10)
 ---
  
 
