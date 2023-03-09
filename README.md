@@ -60,3 +60,34 @@ camSet='nvarguscamerasrc ! video/x-raw(memory:NVMM), width=3264, height=2464, fo
 [Link1](https://blog.csdn.net/ManWZD/article/details/103147985)
 
 [Sensor Usage](https://www.instructables.com/Configure-read-data-calibrate-the-HMC5883L-digital/)
+
+
+```
+Starting bootloader post-install procedure.
+
+ERROR. Procedure for bootloader update FAILED.
+
+Cannot install package. Exiting...
+
+dpkg: error processing package nvidia-l4t-bootloader (--configure):
+
+ installed nvidia-l4t-bootloader package post-installation script subprocess returned error exit status 1
+ 
+Setting up nvidia-l4t-kernel (4.9.201-tegra-32.5.0-20210115145440) ...
+
+depmod: ERROR: could not open directory /lib/modules/4.9.201-tegra: No such file or directory
+
+depmod: FATAL: could not search modules: No such file or directory
+
+Using the existing boot entry 'primary'
+
+3448-300---1--jetson-nano-devkit-mmcblk0p1
+
+Processing triggers for nvidia-l4t-kernel (4.9.201-tegra-32.5.0-20210115145440) ...
+
+Errors were encountered while processing:
+
+ nvidia-l4t-bootloader
+ 
+E: Sub-process /usr/bin/dpkg returned an error code (1)
+```
