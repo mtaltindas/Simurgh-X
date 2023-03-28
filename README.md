@@ -96,3 +96,6 @@ E: Sub-process /usr/bin/dpkg returned an error code (1)
 ```
 
 https://www.g7smy.co.uk/2020/10/jetson-nano-install-notes/
+
+
+https://forums.developer.nvidia.com/t/how-do-i-screen-record-on-the-jetson-tx2/178956/4
